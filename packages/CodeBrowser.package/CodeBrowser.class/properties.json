@@ -1,0 +1,20 @@
+{
+	"category" : "CodeBrowser",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"selector",
+		"selectedMethod",
+		"senderIndex",
+		"cachedSenderList",
+		"cachedImplementerList",
+		"methodStack",
+		"implementerIndex" ],
+	"name" : "CodeBrowser",
+	"pools" : [
+		 ],
+	"super" : "Model",
+	"type" : "normal" }
