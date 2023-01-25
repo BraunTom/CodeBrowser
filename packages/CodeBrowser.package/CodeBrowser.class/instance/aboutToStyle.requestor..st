@@ -1,4 +1,4 @@
-as yet unclassified
+morphic ui
 aboutToStyle: styler requestor: textMorph
 
 	selectedMethod ifNil: [^ false].
