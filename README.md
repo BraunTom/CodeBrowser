@@ -6,5 +6,7 @@ the same window + you can use the buttons on the top to navigate back to the met
 reading and understanding methods. If you want to know what one method does, you can drill down, understand it and later on go back to the method 
 you came from and continue reading from there.
 
+
+## How to use
 The default shortcut is cmd/ctrl-r. You can use it in all TextFields. You probably have to execute `SmalltalkEditor>>initialize` for that to work. 
 It is the same shortcut in the tool to get the behaviour described above.
