@@ -5,5 +5,5 @@ keypressed: key fromMorph: morph
 		ifTrue: [self browseSelectedSender].
 		
 	key = $r
-		ifTrue: [self addSelector: self selectedMethod selector]
+		ifTrue: [self codeBrowserOn: self selectedMethod selector requestor: morph]
 	
