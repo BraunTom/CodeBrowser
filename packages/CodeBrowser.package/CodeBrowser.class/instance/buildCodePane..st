@@ -6,6 +6,7 @@ buildCodePane: aToolBuilder
 		model: self;
 		getText: #contents;
 		setText: #contents:notifying:; 
+		stylerClass: CBStyler;
 		yourself.
 		
 	^ spec

@@ -13,7 +13,7 @@ breadcrumbButtons
 							ifTrue: [self senderIndex: ea second].
 							
 						ea third ~= 0
-							ifTrue: [self implementerIndex:  ea third].
+							ifTrue: [self implementerIndex: ea third].
 						
 						self setMethod: ea fourth];
 			label: ea first asString;
