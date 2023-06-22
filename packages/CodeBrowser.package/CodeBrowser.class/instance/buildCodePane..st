@@ -7,6 +7,7 @@ buildCodePane: aToolBuilder
 		getText: #contents;
 		setText: #contents:notifying:; 
 		stylerClass: CBStyler;
+		selection: #autoSelection;
 		yourself.
 		
 	^ spec

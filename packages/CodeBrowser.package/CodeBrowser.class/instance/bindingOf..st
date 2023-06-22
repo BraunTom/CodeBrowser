@@ -1,4 +1,4 @@
-as yet unclassified
+binding
 bindingOf: aString 
 
 	^ selectedMethod actualClass bindingOf: aString
